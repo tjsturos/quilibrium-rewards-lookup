@@ -13,3 +13,5 @@ yarn start
 
 ### Output
 Will create a output.csv when done.
+#### Notes on Output
+There are many that have the same reward amounts, so you will often see a wallet address with many possible peerIds.
